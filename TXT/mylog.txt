@@ -10,6 +10,7 @@ ZCZC W00 10 L08 Trying something
 Weel 01 log
 ZCZC W01 60 L21 VirtualBox: install GNU/Linux
 ZCZC W01 50 L05 GSGS related 
-ZCZC W01 20 L04 Github Pages: setting
-ZCZC W01 70 L10 Assignment
+ZCZC W01 20 L04 Github Pages: settings permalink etc
+ZCZC W01 70 L10 Doing Assignment
+ZCZC W01 30 L06 Reading Book
 
