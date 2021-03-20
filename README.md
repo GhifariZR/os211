@@ -8,5 +8,7 @@ Kelas: A
 # Top 10 List For every week
 1. [Week 01](https://ghifarizr.github.io/os211/W01/)<br>
 2. [Week 02](https://ghifarizr.github.io/os211/W02/)<br>
+3. [Week 03](https://ghifarizr.github.io/os211/W03/)<br>
 
-[#Rank](https://ghifarizr.github.io/os211/TXT/myrank.txt)<br>
+
+#[Rank](https://ghifarizr.github.io/os211/TXT/myrank.txt)<br>
