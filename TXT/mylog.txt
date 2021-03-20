@@ -15,7 +15,7 @@ ZCZC W02 10 L04 Github Pages: settings
 ZCZC W02 100 L10 Doing Assignment
 ZCZC W02 30 L06 Reading Book
 ZCZC W02 20 L22 Watching Youtube: Study
-ZCZC W03 110 L10 Doing Assignment general
+ZCZC W03 180 L10 Doing Assignment general
 ZCZC W03 10 L04 Github pages: settings
 ZCZC W03 30 L06 Reading Book
 ZCZC W03 90 L02 ZOOM related
