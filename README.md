@@ -10,6 +10,6 @@ Kelas: A
 2. [Week 02](https://ghifarizr.github.io/os211/W02/)<br>
 3. [Week 03](https://ghifarizr.github.io/os211/W03/)<br>
 4. [Week 04](https://ghifarizr.github.io/os211/W04/)<br>
-
+5. [Week 05](https://ghifarizr.github.io/os211/W05/)<br>
 
 #[Rank](https://ghifarizr.github.io/os211/TXT/myrank.txt)<br>
