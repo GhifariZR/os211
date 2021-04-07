@@ -26,4 +26,6 @@ ZCZC W04 10 L04 Github pages: settings
 ZCZC W05 260 L10 Doing Assignment general
 ZCZC W05 10 L04 Github pages: settings
 ZCZC W05 30 L06 Reading Book
+ZCZC W06 60 L10 Doing Assignment general
+ZCZC W06 10 L04 Github pages: settings
 
