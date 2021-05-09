@@ -32,3 +32,7 @@ ZCZC W06 60 L06 Reading and try to understanding slides.
 ZCZC W07 240 L10 Doing Assignment general
 ZCZC W07 10 L04 Github pages: settings
 ZCZC W07 60 L06 Reading and try to understanding slides.
+ZCZC W08 270 L10 Doing Assignment general
+ZCZC W08 30 L22 Watching Youtube: Study
+ZCZC W08 10 L04 Github pages: settings
+ZCZC W08 60 L06 Reading and try to understanding slides.
